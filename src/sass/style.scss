@@ -1,0 +1,10 @@
+$red: #ff2200;
+$font-color: #fff;
+$strong-color: #ddd;
+body {
+  background: $red;
+  color: $font-color;
+  & .display-2 {
+    color: $strong-color;
+  }
+}
