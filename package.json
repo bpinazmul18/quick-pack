@@ -1,0 +1,22 @@
+{
+  "name": "quick-pack",
+  "version": "1.0.0",
+  "description": "quick start your projects, boost your experience",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bpinazmul18/quick-pack.git"
+  },
+  "author": "Md Nazmul Haque",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bpinazmul18/quick-pack/issues"
+  },
+  "homepage": "https://github.com/bpinazmul18/quick-pack#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
